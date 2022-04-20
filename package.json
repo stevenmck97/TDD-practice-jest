@@ -1,0 +1,27 @@
+{
+ 
+  "name": "tdd-practice-jest",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenmck97/TDD-practice-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenmck97/TDD-practice-jest/issues"
+  },
+  "homepage": "https://github.com/stevenmck97/TDD-practice-jest#readme"
+}
